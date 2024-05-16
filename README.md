@@ -6,7 +6,7 @@ Educating myself with different forms of data storage, techniques that can be ap
 
 ### Progress Tracker
 
-| Step | Description | Status |
+| Step | Module | Status |
 |------|-------------|--------|
 | 1    | PRE-DSA patterns | In Progress - 14/22 |
 
