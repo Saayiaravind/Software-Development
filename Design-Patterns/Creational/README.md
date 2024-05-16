@@ -1,5 +1,5 @@
 # What are Creational Design Patterns
-A set of patterns to help manage the complexity of gorwing programming logic.
+A set of patterns to help manage the complexity of growing programming logic.
 
 There are two main themes that are common to most creational design patterns.
 1) They encapsulate knowledge about which concrete class the system should use.
