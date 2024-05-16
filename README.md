@@ -1,7 +1,8 @@
-# My Journey to Become a Software Developer
-## Data Structures and Algorithms
+# My Journey towards Software Development Mastery
+Welcome to my repository where I document my journey towards becoming a better software developer
 
-Welcome to my repository where I document my journey towards becoming a software developer, with a focus on learning Data Structures and Algorithms!
+## Data Structures and Algorithms
+Educating myself with different forms of data storage, techniques that can be applied to the data structures and building efficient problem-solving skills 
 
 ### Progress Tracker
 
