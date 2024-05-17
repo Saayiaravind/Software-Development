@@ -17,7 +17,7 @@ I'm following the learning path prescribed by TakeUForward
 - [TakeUForward](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 
 ## Design Patterns
-Extending my knowledge of OOPS and its application by applying Design Patterns to solve the most common coding problems.
+Extending my knowledge of OOPs and its application by applying Design Patterns to solve the most common coding problems.
 
 ### Progress Tracker
 
