@@ -1,8 +1,8 @@
 # My Journey towards Software Development Mastery
-Welcome to my repository where I document my journey towards becoming a better software developer
+In here, I document my journey towards becoming a better software developer.
 
 ## Data Structures and Algorithms
-Educating myself with different forms of data storage, techniques that can be applied to the data structures and building efficient problem-solving skills 
+Different ways to store data, techniques that can be applied to the data structures thereby building efficient problem-solving skills.
 
 ### Progress Tracker
 
@@ -14,7 +14,25 @@ Educating myself with different forms of data storage, techniques that can be ap
 
 I'm following the learning path prescribed by TakeUForward
 
-- [TUF](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
+- [TakeUForward](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
+
+## Design Patterns
+Extending my knowledge of OOPS and its application by applying Design Patterns to solve the most common coding problems.
+
+### Progress Tracker
+
+| Step | Module | Status |
+|------|-------------|--------|
+| 1    | Creational | In Progress - 1/5 |
+| 2    | Structural | Not started - 0/7 |
+| 3    | Behavioral | Not started - 0/11 |
+
+### Resources
+
+I'm following the course by Bethan Palmer on LinkedIn Learning.
+
+- [Complete Guide to Design Patterns in Java](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural)
+
 
 ## Contributing
 
