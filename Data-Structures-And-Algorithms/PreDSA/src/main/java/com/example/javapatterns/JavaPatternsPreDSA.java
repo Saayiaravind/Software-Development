@@ -145,6 +145,7 @@ public class JavaPatternsPreDSA {
             System.out.println();
         }
      }
+
     public static void pattern14(int n) {
         for(int i = 0 ; i<n; i++){
             for(char ch='A'; ch <= 'A'+i ; ch++){
@@ -153,6 +154,17 @@ public class JavaPatternsPreDSA {
         System.out.println();
         }
     }
+
+    public static void pattern15(int n) {
+        for(int i = n ; i>0; i--){
+            for(char ch='A'; ch < 'A'+i ; ch++){
+                System.out.print(ch+ " ");
+            }
+        System.out.println();
+        }
+        
+    }
+    
     
     
     
@@ -161,6 +173,6 @@ public class JavaPatternsPreDSA {
         System.out.print("Enter value for N: ");
         int N = scanner.nextInt();
         scanner.close();
-        pattern14(N);
+        pattern15(N);
     }
 }

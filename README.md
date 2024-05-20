@@ -8,7 +8,7 @@ Educating myself with different forms of data storage, techniques that can be ap
 
 | Step | Module | Status |
 |------|-------------|--------|
-| 1    | PRE-DSA patterns | In Progress - 14/22 |
+| 1    | PRE-DSA patterns | In Progress - 15/22 |
 
 ### Resources
 
